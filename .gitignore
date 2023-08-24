@@ -1,0 +1,7 @@
+.DS_Store
+dist/
+node_modules/
+coverage/
+driver-destinations.txt
+drivers.data
+destinations.data

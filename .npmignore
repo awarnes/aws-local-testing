@@ -1,0 +1,8 @@
+.github/
+resources/
+**/*.test.js
+testData.txt
+test/
+coverage/
+.eslintrc.json
+src/lib/worker/test/
